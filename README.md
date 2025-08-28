@@ -90,14 +90,15 @@ Requirements
 Build Commands
 bash
 
-# Debug build
-./gradlew assembleDebug
 
 # Release build
-./gradlew assembleRelease
+./gradlew build
 
 # Clean build
 ./gradlew clean build
+
+# Get File Of Zygisk 
+/build/intermediateds/cxx...
 
 📊 Logging and Debugging
 
